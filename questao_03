@@ -1,0 +1,3 @@
+Nome = input('Digite uma frase:')
+letras = (len(Nome))
+print(f'Sua frase tem {letras} letras')

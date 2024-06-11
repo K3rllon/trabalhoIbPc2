@@ -1,0 +1,12 @@
+Varial1 = 3
+print(f'Valor: {Varial1}')
+print(f'Tipo: {type(Varial1)}')
+Variavel2 = 9.543
+print(f'Valor: {Variavel2}')
+print(f'Tipo: {type(Variavel2)}')
+Variavel3 = 'House'
+print(f'Valor: {Variavel3}')
+print(f'Tipo: {type(Variavel3)}')
+Variavel4 = False
+print(f'Valor: {Variavel4}')
+print(f'Tipo: {type(Variavel4)}')

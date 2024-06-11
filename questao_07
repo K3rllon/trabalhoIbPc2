@@ -1,0 +1,13 @@
+Nome = input('Aluno digite seu nome:')
+Materia = input('Digite qual meteria você deseja calcular sua média:')
+Nota1 = int(input('Digite sua primeira nota:'))
+Nota2 = int(input('Digite qual sua segunda nota:'))
+media = (Nota1 + Nota2)/2
+if (media >=6):
+    situação=('aprovado')
+else:
+    situação=('reprovado')
+print(f'{Nome} esta {situação} na disciplina {Materia}')
+  
+
+                

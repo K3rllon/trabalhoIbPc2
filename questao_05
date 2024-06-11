@@ -1,0 +1,12 @@
+Horario = int(input('Digite um horario do relogio de 0h ás 23h:'))
+if 0<= (Horario) <12:
+    print(f'É manhã')
+elif 12<= (Horario) <18:
+    print(f'É tarde')
+elif 18<= (Horario) <=23:
+    print(f'É noite')
+else: 
+    print(f'Horaio invalido')
+ 
+
+

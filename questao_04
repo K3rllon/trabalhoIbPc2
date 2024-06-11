@@ -1,0 +1,4 @@
+Frase = input('Digite uma frase:')
+letras = (len(Frase))
+Ultima = Frase[letras-1]
+print (f'A letra {Ultima} é a ultima da sua frase')
